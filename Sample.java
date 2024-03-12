@@ -5,6 +5,7 @@ class sample
 
     System.out.println("hi  mo");
     System.out.println("hi bo");
+    system.out.println("hi ro");
 
   }
 }
